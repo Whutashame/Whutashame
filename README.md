@@ -1,7 +1,6 @@
 <h1 align="center">Welcome, I'm Chouaib</h1>
 <h3 align="center">A Passionate Cybersecurity Engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
